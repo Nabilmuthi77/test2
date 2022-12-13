@@ -1,2 +1,3 @@
 a = "welcome"
-print a
+b = "you know? I love her"
+print a and b
